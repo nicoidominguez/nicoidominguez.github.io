@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nico I. Dominguez"
   avatar           : "profile.png"
-  bio              : "Econ MA student at NYU. Likes coffee :coffe."
+  bio              : "Econ MA student at NYU. Likes coffee :coffee."
   location         : "NY, USA"
   employer         :
   pubmed           :  # ""
