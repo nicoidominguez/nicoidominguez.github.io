@@ -187,8 +187,14 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
+  research:
+    output: true
+    permalink: /:collection/:path/  
+  resources:
+    output: true
+    permalink: /:collection/:path/  
+ 
+ 
 # Defaults
 defaults:
   # _posts
@@ -244,7 +250,23 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+   # research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+ 
 # Sass/SCSS
 sass:
   sass_dir: _sass
