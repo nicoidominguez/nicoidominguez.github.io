@@ -1,20 +1,11 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: "Talk 1 on Relevant Topic in Your Field"
+collection: resources
+type: "Resources"
+permalink: /resources/2012-03-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
