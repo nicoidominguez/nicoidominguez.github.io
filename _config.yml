@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nico I. Dominguez"
-  avatar           : "Nico-1.jpg"
+  name             : ""
+  avatar           : ""
   bio              : "Econ MA student at NYU. Likes coffee."
   location         : "NY, USA"
   employer         :
