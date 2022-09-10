@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![Me](https://nicoidominguez.github.io/images/Nico-1.jpg)
-
 # Welcome!
+
+![Me](https://nicoidominguez.github.io/images/Nico-1.jpg)
 
 I'm Nicolas Dominguez, a MA student at the Economics Department of New York University.
 {: .fs-6 .fw-300 }
