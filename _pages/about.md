@@ -20,7 +20,7 @@ Check out the papers I am currently working on in the [research](/research) sect
 The [resources](/resources) section serves as a repository of miscellaneous material that I've worked on over the years, and most of the projects that I'm (not) working on (big and small) are hosted in [my Github repo](https://www.github.com/acarril).
 I also have a number of brief blog-type [posts](/posts) I've made about various econ and/or computer topics.
 
-![Photo Me](/nicoidominguez.github.io/images/Nico-1.jpg)
+![](/nicoidominguez.github.io/images/Nico-1.jpg)
 
 ## About this site
 
