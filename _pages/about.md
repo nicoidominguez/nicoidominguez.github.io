@@ -10,10 +10,10 @@ redirect_from:
 
 # Welcome!
 
-![Me](https://nicoidominguez.github.io/images/Nico-1.jpg | width=100)
-
 I'm Nicolas Dominguez, a MA student at the Economics Department of New York University.
 {: .fs-6 .fw-300 }
+
+![Me](https://nicoidominguez.github.io/images/Nico-1.jpg | width=100)
 
 My main (research) interests revolve around reducing inequalities and improving the efficiency of markets that are heavily influenced ---or controlled--- by the public sector.
 I'm particularly interested in studying the relationship between education and labor markets.
