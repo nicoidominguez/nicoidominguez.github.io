@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![Me](nicoidominguez.github.io/images/Nico-1.jpg)
+
+![Me](/nicoidominguez.github.io/images/Nico-1.jpg)
 
 # Welcome!
 
