@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Me](nicoidominguez.github.io/images/Nico-1.jpg)
+
 # Welcome!
 
 I'm Nicolas Dominguez, a MA student at the Economics Department of New York University.
@@ -17,10 +19,8 @@ My main (research) interests revolve around reducing inequalities and improving 
 I'm particularly interested in studying the relationship between education and labor markets.
 
 Check out the papers I am currently working on in the [research](/research) section.
-The [resources](/resources) section serves as a repository of miscellaneous material that I've worked on over the years, and most of the projects that I'm (not) working on (big and small) are hosted in [my Github repo](https://www.github.com/acarril).
+The [resources](/resources) section serves as a repository of miscellaneous material that I've worked on over the years, and most of the projects that I'm (not) working on (big and small) are hosted in [my Github repo](https://www.github.com/nicoidominguez).
 I also have a number of brief blog-type [posts](/posts) I've made about various econ and/or computer topics.
-
-![Me](nicoidominguez.github.io/images/Nico-1.jpg)
 
 ## About this site
 
