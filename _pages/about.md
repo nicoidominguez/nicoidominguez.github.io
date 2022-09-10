@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-![Me](https://nicoidominguez.github.io/images/Nico-1.jpg)
+![Me](https://nicoidominguez.github.io/images/Nico-1.jpg | width=100)
 
 I'm Nicolas Dominguez, a MA student at the Economics Department of New York University.
 {: .fs-6 .fw-300 }
