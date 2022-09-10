@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-#  avatar           : ""
+  avatar           : "inverted-america-1943.jpg"
   bio              : "Econ MA student at NYU. Likes coffee."
   location         : "NY, USA"
   employer         :
