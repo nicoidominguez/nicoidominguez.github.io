@@ -2,6 +2,7 @@
 title: 'Short-Term Effects of Recreational Marijuana Legalization on Crime' 
 coauthors: Laura Carreño, Carmen Vargas
 pubstatus: "mimeo"
+permalink: /research/MJ_CrimeNYC
 journal: "no"
 link: "no"
 presented: "no"
