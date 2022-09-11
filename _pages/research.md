@@ -18,7 +18,7 @@ author_profile: true
 	{% assign research_sorted = site.research | sort: "order_paper" %}
 	{% for paper in research_sorted %}
 	{% if paper.pubstatus == "mimeo" %}
-	{% include archive-single.html %}
+	{% include archive-single-papers.html %}
 			
 		<div>
 		<ul>	
