@@ -1,13 +1,14 @@
 ---
 title: 'Short-Term Effects of Recreational Marijuana Legalization on Crime in NYC'
+coauthors: Laura Carreño, Carmen Vargas
 pubstatus: "mimeo"
 journal: "no"
 link: "no"
 presented: "no"
 pdf: 'no'
-abstract: 'What is the impact of improving the transit infrastructure on the gender earnings gap? How does family structure matter to understand the impact of new transit infrastructure? Recent models on spatial economics hinge on the assumption that households are comprised of a single type of person making commuting and location choices. In reality, an important share of the population lives in households with more persons, whose commuting choices might be interlinked through the household&apos;s budget constraint. I set up and estimate a quantitative model of city structure featuring single and married households leveraging on the introduction of a Metro line and the Bus Rapid Transit System (BRT) in Lima, Peru. My model delivers interdependent commuting choices within dual-earner households. This way, reduced commute times impact one partner&apos;s commuting patterns not only by affecting her prospects, but also those of her spouse. I show that this mechanism is quantitatively important. If I ignore this mechanism, I would overestimate gains in real income by 11 percent and underestimate reductions in the gender earnings gap by 103 percent, leading to a switch in the sign of the impact of the Metro and the BRT. '
+abstract: 'New York became the 15th state to legalize marijuana for recreational use in 2021. With a growing share of the country legalizing cannabis, researchers and policymakers have studied the effects of its legalization on the economic and social characteristics of the states that have legalized marijuana. This analysis adds to the existing literature by exploring the implications of marijuana legalization for recreational use in New York State. Specifically, we analyze the impact of marijuana legalization on crime rates in New York City. We leverage New York Police Data and run a Two-Way Fixed Effects Difference-in-Differences model to estimate how crime rates changed after the passage of the law. We find that legalization is associated with an increase in the number of arrests for some, but not all, violent crimes in precincts where marijuana arrests were high prior to the passing of the law. The increase in crime could be related to a reallocation of police resources to other crimes, but further analysis is necessary.'
 funding: "no"
-order_paper: 2
+order_paper: 1
 layout: page
 #corregir como se ponen pdfs
 ---
