@@ -1,5 +1,6 @@
 ---
 title: 'Short-Term Effects of Recreational Marijuana Legalization on Crime' 
+collection: research
 coauthors: Laura Carreño, Carmen Vargas
 pubstatus: "mimeo"
 permalink: /research/MJ_CrimeNYC
@@ -10,7 +11,11 @@ abstract: 'New York became the 15th state to legalize marijuana for recreational
 funding: "no"
 order_paper: 1
 layout: page
-#corregir como se ponen pdfs
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 <a href="{{ "/assets/pdfs/MJ_CrimeNYC.pdf" | prepend: site.baseurl | prepend: site.url }}" target="_blank"> [Preliminary draft here] </a>
