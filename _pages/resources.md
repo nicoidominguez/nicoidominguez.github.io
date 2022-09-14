@@ -16,4 +16,4 @@ Code 2 (Python)
 
 ## Lectures
 
-Here I'll put the materials from the lecture I've designed to teach Machine Learing at Universidad de Piura (Peru). 
+Here I'll put the materials from the lecture I've designed to teach Introduction to Data Science and Machine Learing with Python at Universidad de Piura, Peru (_forthcoming 2023-II_).
