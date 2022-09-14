@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+{% include base_path %}
+
 <h2> Working Papers </h2>
 <div>
 	{% assign research_sorted = site.research | sort: "order_paper" %}
