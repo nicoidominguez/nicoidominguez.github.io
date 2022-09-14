@@ -15,7 +15,6 @@ pdf: 'no'
 abstract: 'US and Peru. Impact of COVID in Automation and Occupational mobility.'
 funding: "no"
 order_paper: 1
-layout: page
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
