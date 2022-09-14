@@ -74,14 +74,7 @@
 				{% endfor %}
 				</i>
 			{% endif %}
-				
-			{% if paper.link != 'no' %}
-			<div class = "pdf">
-				<u><a href="{{ paper.link }}" target="_blank"> [{{ paper.journal }}] </a></u>
-			</div>
-			{% endif %}
-					
-			
+									
 			{% if  paper.funding  != 'no' %}
 			<div class ="conferences">
 				<i>Project financed by grant from {{ paper.funding }}</i>
