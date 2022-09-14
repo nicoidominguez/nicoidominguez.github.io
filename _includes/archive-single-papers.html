@@ -34,17 +34,6 @@
       {% endif %}
     </h2>
     
-    {% if paper.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
-        {% if paper.collection == 'teaching' %}
-          <p> {{ paper.type }}, <i>{{ paper.venue }}</i>, {{ paper.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif paper.collection == 'publications' %}
-          <p>Published in <i>{{ paper.venue }}</i>, {{ paper.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif paper.collection == 'research' %}
-        {% endif %}
-    
 		<div>
 		<ul>	
 			<li style= "font-weight: bold;"><a href ="{{ paper.url }}">{{ paper.title }}</a></li>
