@@ -44,12 +44,6 @@
           <p>Published in <i>{{ paper.venue }}</i>, {{ paper.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif paper.collection == 'research' %}
         {% endif %}
-
-    {% if paper.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ paper.excerpt | markdownify }}</p>
-    {% elsif paper.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ paper.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ paper.url }}" rel="permalink"> Read more</a></strong></p></p>
-    {% endif %}
     
 		<div>
 		<ul>	
