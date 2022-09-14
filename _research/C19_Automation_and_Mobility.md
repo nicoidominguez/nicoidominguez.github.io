@@ -12,7 +12,7 @@ funding: "no"
 order_paper: 1
 ---
 
-{% if page.pubstatus = "mimeo" %}
+{% if page.pubstatus == "mimeo" %}
 <a href="{{ "/assets/pdfs/MJ_CrimeNYC.pdf" | prepend: site.baseurl | prepend: site.url }}" target="_blank"> [Preliminary draft here] </a>
 {% endif %}
 
