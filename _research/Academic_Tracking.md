@@ -8,7 +8,7 @@ journal: "no"
 presented: "2018 Annual Congress of the Peruvian Economic Association"
 pdf: 'no'
 abstract: 'Academic Tracking in Peru.'
-funding: "Consorcio de Investigación Económica y Social (CIES) and International Development Research Centre (IDRC)"
+funding: "International Development Research Centre (IDRC) through the Consorcio de Investigación Económica y Social (CIES)"
 order_paper: 2
 ---
 
