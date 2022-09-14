@@ -23,13 +23,6 @@ Check out the papers I am currently working on in the [research](/research) sect
 
 I like it when researchers take the time to share their knowledge of the computational tools that they use, so this website is (among other things) an attempt to do so myself. I hope you find something useful.
 
-<div class="img_profile col-xs-12" >	
-	<div> 
-		<p><img src="https://nicoidominguez.github.io/images/Nico-1-edited.jpg" alt="Nicolas Dominguez"></p>
-	</div> 
-	
-	<span>  
-		<span class="text"> <p> I am Peruvian economics Ph.D. student at the University of Michigan, currently enrolled in the third year. My fields of interest include development economics and international trade, both with a focus on economic geography and urban economics. Feel free to check <a href="{{ "/research" | prepend: site.baseurl | prepend: site.url }}">my current research</a>.</p></span>
-	</span>
-	
-</div>
+<img align="right" width="33%" src="https://nicoidominguez.github.io/images/Nico-1-edited.jpg" alt="Nicolas Dominguez">
+
+I like it when researchers take the time to share their knowledge of the computational tools that they use, so this website is (among other things) an attempt to do so myself. I hope you find something useful.
