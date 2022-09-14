@@ -27,7 +27,7 @@ img
     display:inline-block;
     float:left;
     /* provide a 15 pixel gap between the image and the text to its right */
-    margin-right:15px;
+    margin-right:18px;
 }
 
 /* Create a CSS class to style images to right-align, or "float right" */
@@ -36,7 +36,7 @@ img
     display:inline-block;
     float:right;
     /* provide a 15 pixel gap between the image and the text to its left */
-    margin-left:15px;
+    margin-left:18px;
 }
 
 </style>
@@ -49,4 +49,4 @@ img
 
 <p align="justify"> My main (research) interests revolve around understanding the roots, effects and consequences of inequalities in the socio-economic context, and the designing of efficient markets that account for reducing them. I'm particularly interested in studying the education and labor markets, as well as the public policy that affects these. </p> 
 
-Check out the papers I am currently working on in the [research](/research) section. The [resources](/resources) section serves as a repository of miscellaneous material that I've worked on over the years (mostly coding). You may also visit [my Github repo](https://www.github.com/nicoidominguez) where I host most of the code I've written in Stata, Python. 
+<p align="justify"> Check out the papers I am currently working on in the <a href='https://nicoidominguez.github.io/resources/'>resources</a> [research](/research) section. The [resources](/resources) section serves as a repository of miscellaneous material that I've worked on over the years (mostly coding). You may also visit [my Github repo](https://www.github.com/nicoidominguez) where I host most of the code I've written in Stata, Python. </p> 
