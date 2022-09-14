@@ -1,7 +1,7 @@
 ---
 title: "Estimation of the impact of covid-19 on automation and occupational mobility in Peru and the USA"
 collection: research
-coauthors: Eric Parrado, Miguel Benitez
+coauthors: Eric Parrado, Miguel Benítez
 pubstatus: "inprogress"
 permalink: /research/C19_Automation_and_Mobility
 journal: "no"
