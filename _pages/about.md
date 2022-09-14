@@ -25,7 +25,7 @@ I like it when researchers take the time to share their knowledge of the computa
 
 <div class="img_profile col-xs-12" >	
 	<div> 
-		<p><img src="https://nicoidominguez.github.io/images/Nico-1.jpg" width="600" alt="Nicolas Dominguez"></p>
+		<p><img src="https://nicoidominguez.github.io/images/Nico-1.jpg" alt="Nicolas Dominguez"></p>
 	</div> 
 	
 	<span>  
