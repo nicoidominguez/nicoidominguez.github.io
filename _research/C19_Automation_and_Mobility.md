@@ -12,7 +12,7 @@ funding: "no"
 order_paper: 1
 ---
 
-<a href="{{ "/assets/pdfs/MJ_CrimeNYC.pdf" | prepend: site.baseurl | prepend: site.url }}" target="_blank"> [Preliminary draft here] </a>
+#<a href="{{ "/assets/pdfs/MJ_CrimeNYC.pdf" | prepend: site.baseurl | prepend: site.url }}" target="_blank"> [Preliminary draft here] </a>
 
 <p><b>Co-author(s)</b>: {{ page.coauthors }} </p>
 
