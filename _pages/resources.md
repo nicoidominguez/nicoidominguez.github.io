@@ -12,12 +12,12 @@ This page is a repository of resources of various types. These include codes I'v
 ## Coding efforts
 
 - PERU. [ENAHO 2004-2020](https://github.com/nicoidominguez/PERU-ENAHO). Household Survey (_Stata_).
-- [UDEL 1900-2017. Global Climate Data](https://github.com/nicoidominguez/UDEL-Global-Climate-Data). (Stata, Python).
-- [PERU. SIAF 2007-2013. Scrapping local governments' income from Mining canon](https://github.com/nicoidominguez/PERU-SIAF). (Python).
-- [PERU. Google's Geocoding API to retrieve coordinates from addresses](https://github.com/nicoidominguez/PERU-GeocodingAPI). (Python).
-- [US. GSS 1973-2021. Household Survey](). (Stata).
-- [US. YRBS 1991-2019. High-school Student Survey](). (Stata).
+- [UDEL 1900-2017](https://github.com/nicoidominguez/UDEL-Global-Climate-Data). Global Climate Data (_Stata_, _Python_).
+- PERU. [SIAF 2007-2013](https://github.com/nicoidominguez/PERU-SIAF). Scrapping local governments' income from Mining canon (_Python_).
+- PERU. [Google's Geocoding API](https://github.com/nicoidominguez/PERU-GeocodingAPI) to retrieve coordinates from addresses (_Python_).
+- US. [GSS 1973-2021](). Household Survey (_Stata_).
+- US. [YRBS 1991-2019](). High-school Student Survey (_Stata_).
 
 ## Lectures
 
-Here I'll put the materials from the lecture I've designed to teach Introduction to Data Science and Machine Learing with Python at Universidad de Piura, Peru (_forthcoming 2023-II_).
+Here I'll put the materials from the lecture I've designed to teach <<Introduction to Data Science and Machine Learing with Python>> at Universidad de Piura, Peru (_forthcoming 2023-II_).
