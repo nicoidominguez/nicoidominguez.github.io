@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-This page is a repository of resources of various types. These include code I've written, intended to  miscellaneous documents (mostly in spanish).
+This page is a repository of resources of various types. These include codes I've written performing some cleaning or scrapping processes for social science research purposes (so you don't have to clean them from scratch!), as well as lectures I've prepared for miscellaneous events and lectures (forthcoming!).
 
 ## Coding efforts
 
-Code 1 (Stata)
+- [PERU. ENAHO 2004-2020. Household Survey](https://github.com/nicoidominguez/PERU-ENAHO)
 Code 2 (Python)
 
 ## Lectures
