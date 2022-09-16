@@ -20,5 +20,4 @@ order_paper: 1
 <p><b>Presented in</b>: {{ page.presented }} </p>
 {% endif %}
 
-<div class ="text"><p><b>Abstract</b>: {{ page.abstract }} </p></div>
-
+<div class ="text"><p align="justify"><b>Abstract</b>: {{ page.abstract }} </p></div>
