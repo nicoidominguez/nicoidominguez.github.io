@@ -11,12 +11,12 @@ This page is a repository of resources of various types. These include codes I'v
 
 ## Coding efforts
 
-- [PERU. ENAHO 2004-2020. Household Survey](https://github.com/nicoidominguez/PERU-ENAHO). (Stata).
+- PERU. [ENAHO 2004-2020](https://github.com/nicoidominguez/PERU-ENAHO). Household Survey (_Stata_).
 - [UDEL 1900-2017. Global Climate Data](https://github.com/nicoidominguez/UDEL-Global-Climate-Data). (Stata, Python).
 - [PERU. SIAF 2007-2013. Scrapping local governments' income from Mining canon](https://github.com/nicoidominguez/PERU-SIAF). (Python).
 - [PERU. Google's Geocoding API to retrieve coordinates from addresses](https://github.com/nicoidominguez/PERU-GeocodingAPI). (Python).
-- [US. GSS 1972-2018. Household Survey](). (Stata).
-- [US. YRBS 1972-2018. High-school Student Survey](). (Stata).
+- [US. GSS 1973-2021. Household Survey](). (Stata).
+- [US. YRBS 1991-2019. High-school Student Survey](). (Stata).
 
 ## Lectures
 
