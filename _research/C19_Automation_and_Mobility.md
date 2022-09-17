@@ -7,7 +7,7 @@ permalink: /research/C19_Automation_and_Mobility
 journal: "no"
 presented: "no"
 pdf: 'no'
-abstract: 'US and Peru. Impact of COVID in Automation and Occupational mobility.'
+abstract: 'We analyze the impact of the covid-19 pandemic on job automation and occupational mobility in both Peru and the US.'
 funding: "no"
 order_paper: 1
 ---
