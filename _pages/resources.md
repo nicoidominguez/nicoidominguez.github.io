@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p align="justify"> This page is a repository of resources of various types. These include codes I've written performing some cleaning or scrapping processes for social science research purposes (so you don't have to clean them from scratch!), as well as lectures I've prepared for miscellaneous events and lectures (forthcoming!). </p>
+<p align="justify"> This page is a repository of resources of various types. These include codes I've written performing some cleaning or scrapping processes for social science research purposes (so you don't have to clean them from scratch!), as well as material I've prepared for miscellaneous events and lectures (forthcoming!). </p>
 
 ## Coding efforts
 
