@@ -20,4 +20,4 @@ author_profile: true
 
 ## Lectures
 
-<p align="justify"> Here I'll put the materials from the lecture I've designed to teach "Introduction to Data Science and Machine Learing with Python" at Universidad de Piura, Peru (<i>forthcoming 2023-II</i>). </p>
+<p align="justify"> Here I'll put the materials from the lecture I am preparing to teach "Introduction to Data Science and Machine Learing with Python" at Universidad de Piura, Peru (<i>forthcoming in 2023</i>). </p>
