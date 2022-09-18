@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="justify"> During my M.A. in Economics at NYU, I mainly focus on undertaking advanced math and economics classes as preparation for a Ph.D. in Economics. I recently did a Graduate Summer Internship at the IDB's Department of Research, working with <a href='https://www.iadb.org/en/research-and-data/author/eric-parrado-herrera'>Eric Parrado</a>. I am also focusing on writing academic papers on applied microeconomics topics. You may find some of them in my <a href='https://nicoidominguez.github.io/research/'>research</a> section. </p> 
+<p align="justify"> During my M.A. in Economics at NYU, I mainly focus on undertaking advanced math and economics classes as preparation for a Ph.D. in Economics. I recently did a Graduate Summer Internship at the IDB's Department of Research, working with <a href='https://www.iadb.org/en/research-and-data/author/eric-parrado-herrera'>Eric Parrado</a> in a labor market project. I am also focusing on writing academic papers on applied microeconomics topics. You may find some of them in my <a href='https://nicoidominguez.github.io/research/'>research</a> section. </p> 
 
 <a href=''></a>
 
