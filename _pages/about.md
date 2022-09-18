@@ -47,6 +47,6 @@ img
 
 <p align="justify"> I'm Nicolas Dominguez, an economics M.A. student at New York University. I enjoy consuming and producing research, and I would like to enroll in a Ph.D. in Economics in the near future. </p> 
 
-<p align="justify"> My main (research) interests revolve around understanding the roots, effects and consequences of inequalities in the socio-economic context, and the designing of efficient markets that account for reducing them. I'm particularly interested in studying the education and labor markets, as well as the public policy that affect these. </p> 
+<p align="justify"> My main (research) interests revolve around understanding the roots, effects and consequences of socioeconomic inequalities, and the designing of efficient markets that account for reducing them. I'm particularly interested in studying education and labor markets, as well as the public policy that affect these. </p> 
 
 <p align="justify"> Check out the papers I am currently working on in the <a href='https://nicoidominguez.github.io/research/'>research</a> section. The <a href='https://nicoidominguez.github.io/resources/'>resources</a> section serves as a repository of miscellaneous material that I've worked on over the years (mostly coding). You may also visit <a href='https://www.github.com/nicoidominguez'>my Github repo</a> where I host most of the code I've written in Stata, Python. </p> 
