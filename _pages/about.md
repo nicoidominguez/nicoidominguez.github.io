@@ -52,5 +52,5 @@ img
 <p align="justify"> Check out the papers I am currently working on in the <a href='https://nicoidominguez.github.io/research/'>research</a> section. The <a href='https://nicoidominguez.github.io/resources/'>resources</a> section serves as a repository of miscellaneous material that I've worked on over the years (mostly coding). You may also visit <a href='https://www.github.com/nicoidominguez'>my Github repo</a> where I host most of the code I've written in Stata, Python. </p> 
 
 # Fields of interest
-<p align="justify"> Main: Public Economics, Labor Economics, Education. </p> 
-<p align="justify"> Secondary: Political Economy, Development. </p> 
+<p align="justify"> Main: Public Economics, Labor Economics, Education. <br /> 
+Secondary: Political Economy, Development. </p> 
