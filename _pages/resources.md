@@ -14,7 +14,7 @@ author_profile: true
 - PERU. [ENAHO 2004-2020](https://github.com/nicoidominguez/PERU-ENAHO). Household Survey (_Stata_).
 - [UDEL 1900-2017](https://github.com/nicoidominguez/UDEL-Global-Climate-Data). Global Climate Data (_Stata_, _Python_).
 - PERU. [SIAF 2007-2013](https://github.com/nicoidominguez/PERU-SIAF). Scrapping local governments' income from Mining canon (_Python_).
-- PERU. [Google's Geocoding API](https://github.com/nicoidominguez/PERU-GeocodingAPI) to retrieve coordinates from addresses (_Python_).
+- PERU. [Google's Geocoding API](https://github.com/nicoidominguez/PERU-GeocodingAPI) to retrieve coordinates from a list of addresses (_Python_).
 - US. [GSS 1973-2021](https://github.com/nicoidominguez/US-GSS). Household Survey (_Stata_).
 - US. [YRBS 1991-2019](https://github.com/nicoidominguez/US-YRBS). High-school Student Survey (_Stata_).
 
