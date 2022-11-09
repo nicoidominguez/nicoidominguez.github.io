@@ -50,5 +50,5 @@ img
 <p align="justify"> My main (research) interests revolve around understanding the roots, effects and consequences of socioeconomic inequalities, and the designing of efficient markets that account for reducing them. I'm particularly interested in studying education and labor markets, as well as the policies that affect these. </p> 
 
 # Fields of interest
-<p align="justify"> Main: Public Economics, Labor Economics, Education. <br /> 
-Secondary: Political Economy, Development. </p> 
+<p align="justify"> Main: Labor Economics, Education, Development Economics. <br /> 
+Secondary: Public Economics, Political Economy. </p> 
