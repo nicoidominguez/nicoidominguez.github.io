@@ -9,7 +9,7 @@ presented: "no"
 pdf: 'no'
 abstract: 'We analyze the impact of the covid-19 pandemic on job automation and occupational mobility in both Peru and the US.'
 funding: "no"
-order_paper: 1
+order_paper: 2
 ---
 
 {% if page.pubstatus == "mimeo" %}
