@@ -2,7 +2,7 @@
 title: 'Do Schools Widen Social Inequalities? Clasroom segregation in Peru' 
 collection: research
 coauthors: Jostin Kitmang, Gonzalo Manrique
-pubstatus: "in-progress"
+pubstatus: "inprogress"
 permalink: /research/Academic_Tracking
 journal: "no"
 presented: "2018 Annual Congress of the Peruvian Economic Association"
