@@ -2,7 +2,7 @@
 title: 'The effects of family gender-roles on educational attainment and career choice of girls' 
 collection: research
 coauthors: Carmen Vargas
-pubstatus: "in-progress"
+pubstatus: "inprogress"
 permalink: /research/Brother_Educ
 journal: "no"
 presented: "no"
