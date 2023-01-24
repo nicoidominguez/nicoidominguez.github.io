@@ -17,4 +17,4 @@ redirect_from:
 
 If you can't see my CV below, you can find it <a href='https://github.com/nicoidominguez/nicoidominguez.github.io/blob/master/files/Nicolas_Dominguez___CV_Ph_D__Applications__long.pdf'>here</a>. Contact me at nicolas.dominguez `at` nyu `dot` edu.
 
-<p><iframe src="/files/Nicolas_Dominguez___CV_Ph_D__Applications__long.pdf" style="width:100%; height:650px;" frameborder="0">    </iframe></p>
+<p><iframe src="/files/Nicolas_Dominguez_CV_Latest.pdf" style="width:100%; height:650px;" frameborder="0">    </iframe></p>
