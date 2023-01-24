@@ -15,6 +15,6 @@ redirect_from:
 
 <p align="justify"> Before going to grad school, I was a public servant in the Labor and Industry sectors, mainly developing -experimental and quasi-experimental- impact evaluation designs for their interventions. I also was a research assistant at the Group for the Analysis of Development (<a href='https://www.grade.org.pe/en/'>GRADE</a>), a top Think-Tank in Latin America, where I worked with Senior Researcher <a href='https://www.grade.org.pe/en/investigadores/personal/jjdiaz/'>Juan-José Díaz</a> in several of his projects in the fields of gender, health and labor economics. I also held the same position supporting <a href='https://sites.google.com/view/miguel-angel-carpio'>Miguel-Ángel Carpio</a> and coauthors in a political economy project. </p>  
 
-If you can't see my CV below, you can find it <a href='https://github.com/nicoidominguez/nicoidominguez.github.io/blob/master/files/Nicolas_Dominguez___CV_Ph_D__Applications__long.pdf'>here</a>. Contact me at nicolas.dominguez `at` nyu `dot` edu.
+If you can't see my CV below, you can find it <a href='https://github.com/nicoidominguez/nicoidominguez.github.io/blob/master/files/Nicolas_Dominguez_CV_Latest.pdf'>here</a>. Contact me at nicolas.dominguez `at` nyu `dot` edu.
 
 <p><iframe src="/files/Nicolas_Dominguez_CV_Latest.pdf" style="width:100%; height:650px;" frameborder="0">    </iframe></p>
