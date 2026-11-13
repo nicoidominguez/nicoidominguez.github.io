@@ -159,6 +159,14 @@ a.title { text-decoration: underline; }
 .detail { color: var(--muted); }
 .status { color: var(--accent); }
 
+.meta {
+  color: var(--muted);
+  font-size: .88rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+.meta a { color: var(--accent); }
+
 .abstract-toggle {
   margin-left: .35rem;
   padding: .1rem .55rem;
