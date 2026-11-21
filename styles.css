@@ -88,7 +88,7 @@ html[data-theme="dark"] .theme .moon { display: none; }
 /* ---------- Home: profile left, work right ---------- */
 .home {
   display: grid;
-  grid-template-columns: 19rem 1fr;
+  grid-template-columns: 20.5rem 1fr;
   gap: 2rem 4rem;
   align-items: start;
 }
@@ -96,13 +96,13 @@ html[data-theme="dark"] .theme .moon { display: none; }
 .profile img {
   display: block;
   width: 100%;
-  max-width: 19rem;
+  max-width: 20.5rem;
   height: auto;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   margin-bottom: 1rem;
 }
-.profile .brackets { display: block; margin-bottom: 1.4rem; font-size: .86em; white-space: nowrap; }
+.profile .brackets { display: block; margin-bottom: 1.4rem; font-size: .8em; white-space: nowrap; }
 .info p { margin-bottom: .9rem; color: var(--muted); }
 .info strong { color: var(--text); font-weight: 800; }
 .info a { color: var(--text); }
