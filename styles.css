@@ -126,6 +126,8 @@ html[data-theme="dark"] .theme .moon { display: none; }
 }
 .paper .with { color: var(--muted); }
 .paper .with b { color: var(--text); font-weight: 500; }
+a.person { color: inherit; }
+a.person:hover { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
 .paper .status { color: var(--muted); }
 .paper .status em { color: var(--accent); font-style: normal; }
 .paper .meta { color: var(--muted); font-size: .9em; }
