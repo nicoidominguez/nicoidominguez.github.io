@@ -102,7 +102,7 @@ html[data-theme="dark"] .theme .moon { display: none; }
   object-fit: cover;
   margin-bottom: 1rem;
 }
-.profile .brackets { display: block; margin-bottom: 1.4rem; }
+.profile .brackets { display: block; margin-bottom: 1.4rem; font-size: .86em; white-space: nowrap; }
 .info p { margin-bottom: .9rem; color: var(--muted); }
 .info strong { color: var(--text); font-weight: 800; }
 .info a { color: var(--text); }
